@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TODO App</string>
+    <string name="selectOne">SELECT ONE</string>
+    <string name="create">CREATE</string>
+    <string name="deleteOne">DELETE ONE</string>
+    <string name="title">Title</string>
+    <string name="delete">DELETE</string>
+    <string name="deletetodo">Delete TODO</string>
+    <string name="yousure">Do you really want to delete it?</string>
+</resources>
