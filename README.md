@@ -1,2 +1,2 @@
 # Android-TODO-Application
-A very simple TODO Application for created in Android Studio
+A simple TODO-Application created in Anrdoid Studio. This was part of a school assignment.
